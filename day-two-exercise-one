@@ -1,0 +1,4 @@
+1. Why is accessibility important when styling a site. Users accessing the site with an accessibility reader or having a disability would be able to access the content on the site.
+Box Model-refers to how each element is represented on the page. It includes the html in a "box" specifies how the html will be represented on the page such as  height and width, margins and padding for spacing around each of the elements making it easier for the user to read.
+Box Model calculations take into consideration the margins and the padding together with the contents inside the "box" make up the total height and with of an element.
+left t right/top to bottom -margin border padding to calculate height and width

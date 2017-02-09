@@ -1,0 +1,11 @@
+total element width = width+ left padding +right padding +left border + right border + left margin + right margin
+total element height = height + top padding +bottom padding + top border + bottom border + top margin + bottom margin
+
+.hero-unit total width= 900+25+25+2+2=954px
+.hero-unit total height= 400+25+25+15+2+2=469px
+
+.sidebar total width=320+15+15+1+5+5=361px
+.sidebar total height=130+25+25+2+5+5=192px
+
+header total width=800+32+32+1+2+10+15=892px
+header total height=90+12+12+4+12+20=150px
